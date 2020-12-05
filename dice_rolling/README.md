@@ -1,4 +1,4 @@
-# dice_rolling
+# sessional
 
 A new Flutter application.
 
