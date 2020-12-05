@@ -50,7 +50,7 @@ class SplashScreenWidget extends StatelessWidget {
               ),
             ),
             SizedBox(height: 50.0),
-            Text("Asad ALi(SP17-BCS-042) ",style:TextStyle(fontSize: 20,color: Colors.teal),),
+            Text("Asad ALi(SP17-BCS-007) ",style:TextStyle(fontSize: 20,color: Colors.teal),),
             Text("COMSATS, VEHARI",style:TextStyle(fontSize: 25,color: Colors.teal),),
             Center(
               child: Container(
